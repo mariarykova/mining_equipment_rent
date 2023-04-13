@@ -1,0 +1,34 @@
+.header {
+  height: 116px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 50%;
+  align-items: flex-end;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+  padding-bottom: 16px;
+  text-transform: uppercase;
+}
+
+.login {
+  border: 1px solid #373737;
+  border-radius: 10px;
+  font-weight: 400;
+  font-size: 36px;
+  color: #373737;
+  width: 90px;
+  height: 67px;
+  padding-top: 23px;
+  text-align: center;
+  margin-top: 20px;
+}
