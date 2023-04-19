@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mining_equipment_rent/static/css/main.d9fcf4c6.css",
-    "main.js": "/mining_equipment_rent/static/js/main.932a08f7.js",
+    "main.css": "/mining_equipment_rent/static/css/main.94ecbb42.css",
+    "main.js": "/mining_equipment_rent/static/js/main.9e8d893c.js",
     "static/js/787.28cb0dcd.chunk.js": "/mining_equipment_rent/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/mining_equipment_rent/index.html",
-    "main.d9fcf4c6.css.map": "/mining_equipment_rent/static/css/main.d9fcf4c6.css.map",
-    "main.932a08f7.js.map": "/mining_equipment_rent/static/js/main.932a08f7.js.map",
+    "main.94ecbb42.css.map": "/mining_equipment_rent/static/css/main.94ecbb42.css.map",
+    "main.9e8d893c.js.map": "/mining_equipment_rent/static/js/main.9e8d893c.js.map",
     "787.28cb0dcd.chunk.js.map": "/mining_equipment_rent/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9fcf4c6.css",
-    "static/js/main.932a08f7.js"
+    "static/css/main.94ecbb42.css",
+    "static/js/main.9e8d893c.js"
   ]
 }
