@@ -1,0 +1,86 @@
+[
+  {
+    "equipmentId": 1,
+    "type": "Mining Truck",
+    "subtype": "Off-highway trucks",
+    "producer": "CAT",
+    "location": "Australia",
+    "rent_rate": "2000",
+    "year": "2022",
+    "model": "785",
+    "characteristics": [
+      {
+        "characteristic_name": "Rated Gross Machine Weight (33.00R51 tires)",
+        "characteristic_unit_of_measure": "kg",
+        "characteristic_value": "249476"
+      },
+      {
+        "characteristic_name": "Nominal Rated Payload (33.00R51 Tires)",
+        "characteristic_unit_of_measure": "t",
+        "characteristic_value": "139"
+      },
+      {
+        "characteristic_name": "Gross Power - SAE J1995",
+        "characteristic_unit_of_measure": "kW",
+        "characteristic_value": "1193"
+      }
+    ],
+    "photo": "https://s7d2.scene7.com/is/image/Caterpillar/CM20200916-a5181-349c4"
+  },
+  {
+    "equipmentId": 2,
+    "type": "Rotary Drill",
+    "subtype": "Drills",
+    "producer": "CAT",
+    "location": "Australia",
+    "rent_rate": "3000",
+    "year": "2023",
+    "model": "MD6200",
+    "characteristics": [
+      {
+        "characteristic_name": "Bit Load",
+        "characteristic_unit_of_measure": "kg",
+        "characteristic_value": "249476"
+      },
+      {
+        "characteristic_name": "Hole Diameter",
+        "characteristic_unit_of_measure": "mm",
+        "characteristic_value": "127-200 mm (5.0-7.87 in)"
+      },
+      {
+        "characteristic_name": "Engine",
+        "characteristic_unit_of_measure": "rpm",
+        "characteristic_value": "Cat® C18 @ 1,800 rpm"
+      }
+    ],
+    "photo": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190906-790b7-c4dc7"
+  },
+  {
+    "equipmentId": 3,
+    "type": "Mini Excavators",
+    "subtype": "Excavators",
+    "producer": "CAT",
+    "location": "Australia",
+    "rent_rate": "1500",
+    "year": "2021",
+    "model": "300.9D",
+    "characteristics": [
+      {
+        "characteristic_name": "Net Power",
+        "characteristic_unit_of_measure": "kW",
+        "characteristic_value": "9.6"
+      },
+      {
+        "characteristic_name": "Operating Weight",
+        "characteristic_unit_of_measure": "kg",
+        "characteristic_value": "935"
+      },
+      {
+        "characteristic_name": "Dig Depth",
+        "characteristic_unit_of_measure": "mm",
+        "characteristic_value": "1731"
+      }
+    ],
+    "photo": "https://s7d2.scene7.com/is/image/Caterpillar/CM20130807-74843-08766"
+  }
+]
